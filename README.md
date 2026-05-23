@@ -1,0 +1,1 @@
+# dio-azure-cognitive-search
